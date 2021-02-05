@@ -1,0 +1,27 @@
+{
+  "id": "77952ceb-4ce2-43df-b591-f138192d9af3",
+  "name": "Main",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Main.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0",
+  "target": "OnPrem"
+}
