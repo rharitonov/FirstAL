@@ -1,6 +1,6 @@
 {
   "id": "77952ceb-4ce2-43df-b591-f138192d9af3",
-  "name": "Main",
+  "name": "GeneralExt",
   "publisher": "Default publisher",
   "version": "1.0.0.0",
   "brief": "",
@@ -20,7 +20,7 @@
       "to": 99999
     }
   ],
-  "contextSensitiveHelpUrl": "https://Main.com/help/",
+  "contextSensitiveHelpUrl": "https://GeneralExt.com/help/",
   "showMyCode": true,
   "runtime": "6.0",
   "target": "OnPrem"
